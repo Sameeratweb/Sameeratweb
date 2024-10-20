@@ -2,7 +2,24 @@
 
 <img src="img.png" alt="Description of the image" width="1000" height="200">
 <!-- ![Visitor Count](https://profile-counter.glitch.me/{Sameeratweb}/count.svg) -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sameeratweb&label=Profile%20views&color=0e75b6&style=flat" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sameeratweb&label=Profile%20views&color=0e75b6&style=flat" /> </p> -->
+
+
+
+```javascript
+const thai = {
+  pronouns: "she" | "her",
+  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
+  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  techCommunities: {
+                        coorganizer: "AfroPython",
+                        speaker: "Latinity",
+                        mentor: "EducaTRANSforma"
+                      },
+ challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+}
+```
 
 
 
