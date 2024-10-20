@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 <img src="img.png" alt="Description of the image" width="1000" height="200">
-![Visitor Count](https : //profile-counter.glitch.me/{Sameeratweb}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{Sameeratweb}/count.svg)
+
 
 
 <!--
