@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img src="img.png" alt="Description of the image" width="300" height="200">
+<img src="img.png" alt="Description of the image" width="1000" height="200">
 
 
 
