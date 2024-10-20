@@ -1,4 +1,6 @@
 ## Hi there 👋
+<img src="COVER.png" alt="Description of the image" width="300" height="200">
+
 
 <!--
 **Sameeratweb/Sameeratweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
