@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img src="dd.png" width="1000" height="270">
+<img src="COVER.png" width="1000" height="270">
 
 
 <!--
