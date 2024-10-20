@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img src="COVER.png" alt="Description of the image" width="300" height="200">
+<img src="dd.png" alt="Description of the image" width="300" height="200">
 
 
 <!--
