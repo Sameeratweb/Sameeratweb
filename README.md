@@ -24,5 +24,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
+
+[![Sameerdesai's GitHub | Stats](https://stats.quira.sh/Sameerdesai/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Sameerdesai)
+[![Sameerdesai's GitHub | Languages Over Time](https://stats.quira.sh/Sameerdesai/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Sameerdesai)
+
 [![An image of @sameeratweb's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sameeratweb)](https://holopin.io/@sameeratweb)
+
 -->
