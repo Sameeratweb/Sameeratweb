@@ -33,9 +33,38 @@ Here are some ideas to get you started:
 </p>)
 
 
+<h1 align="center" style="font-size: 2em; color: #333;">Sameer's Profile</h1>
+
+<div style="max-width: 800px; margin: 0 auto; font-family: Arial, sans-serif; color: #444; text-align: left; padding: 20px; border: 2px solid #ddd; border-radius: 10px; background-color: #f9f9f9;">
+  <pre style="white-space: pre-wrap; word-wrap: break-word; font-size: 1em; background-color: #f0f0f0; padding: 20px; border-radius: 5px;">
+    <code>
+const sameer = {
+  pronouns: "He" | "Him",
+  code: ["Python", "Javascript", "C++",],
+  askMeAbout: ["Web Devlopment","Machine Learning",],
+  technologies: {
+    frontEnd: {
+      js: ["React", "Next.js"],
+      css: ["Tailwind", "Bootstrap"],
+      uiLibraries: ["Shadcn/ui", "Acternity ui"],
+    },
+    backEnd: {
+      js: ["Node", "Express"],
+      python: ["Django"],
+    },
+    databases: ["MySQL"],
+  },
+
+  currentFocus: "Leading a way in generative AI innovation",
+  funFact: "I can debug faster with a coffee in hand!"
+};
+    </code>
+  </pre>
+</div>
 
 
 -->
+
 
  # GitHub Stats
 
