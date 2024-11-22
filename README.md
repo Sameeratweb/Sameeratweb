@@ -1,9 +1,6 @@
-## Hi there 👋
+## <h1 align="center"> Hi there 👋, I'm Sameer </h1>
 
 <img src="img.png" alt="Description of the image" width="1000" height="200">
-<!-- ![Visitor Count](https://profile-counter.glitch.me/{Sameeratweb}/count.svg) -->
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sameeratweb&label=Profile%20views&color=0e75b6&style=flat" /> </p> -->
-
 
 
 
@@ -25,11 +22,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-[![Sameerdesai's GitHub | Stats](https://stats.quira.sh/Sameerdesai/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Sameerdesai)
-[![Sameerdesai's GitHub | Languages Over Time](https://stats.quira.sh/Sameerdesai/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Sameerdesai)
 
-[![An image of @sameeratweb's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sameeratweb)](https://holopin.io/@sameeratweb)
-# Github Stats
+
+
+
+<p align="center">
+  <a href="">Portfolios</a> - - 
+  <a href="">Twitter</a> -
+  <a href="https://topmate.io/sanjaykv/">Contact me.</a> 
+</p>)
+
+
+
+
+-->
+
+ # GitHub Stats
 
 <div align="center">
   <table>
@@ -44,16 +52,36 @@ Here are some ideas to get you started:
           <img src="https://stats.quira.sh/Sameerdesai/languages-over-time?theme=dark" alt="Languages Over Time" width="400">
         </a>
       </td>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/ccdb3195-a669-4563-80ed-ee9faf678bb3" alt="Example Image" width="400">
+      </td>
     </tr>
   </table>
 </div>
--->
- 
 
 
+## GSSOC(24) Badges 🪶
+<table align="center">
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" alt="Postman Api Fundamentals Student Expert Badge" /></td>
+    <td><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" alt="Explorer Badge" /></td>
+    <td><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" alt="Adventurer Badge" /></td>
+    <td><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" alt="Trailblazer Badge" /></td>
+    <td><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" alt="Summit Seeker Badge" /</td>
+    <td><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" alt="Champion Badge" /></td>
+    <td> <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" /></td>
+  </tr>
+</table>
 
+## Hacktoberfest'24 Badges
 
 
 
 
 [![An image of @sameeratweb's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sameeratweb)](https://holopin.io/@sameeratweb)
+
+
+
+
+
+
