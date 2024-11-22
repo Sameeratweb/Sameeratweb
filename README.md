@@ -29,5 +29,31 @@ Here are some ideas to get you started:
 [![Sameerdesai's GitHub | Languages Over Time](https://stats.quira.sh/Sameerdesai/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Sameerdesai)
 
 [![An image of @sameeratweb's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sameeratweb)](https://holopin.io/@sameeratweb)
+# Github Stats
 
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://quira.sh?utm_source=widgets&utm_campaign=Sameerdesai">
+          <img src="https://stats.quira.sh/Sameerdesai/github?theme=dark" alt="GitHub Stats" width="400">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://quira.sh?utm_source=widgets&utm_campaign=Sameerdesai">
+          <img src="https://stats.quira.sh/Sameerdesai/languages-over-time?theme=dark" alt="Languages Over Time" width="400">
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 -->
+ 
+
+
+
+
+
+
+
+[![An image of @sameeratweb's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sameeratweb)](https://holopin.io/@sameeratweb)
