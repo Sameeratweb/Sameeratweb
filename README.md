@@ -1,6 +1,6 @@
 ## <h1 align="center"> Hi there 👋, I'm Sameer </h1>
 
-<img src="img.png" alt="Description of the image" width="1000" height="200">
+<img src="img.png" alt="Description of the image" width="1000" height="250">
 
 
 
@@ -66,9 +66,24 @@ const sameer = {
 -->
 
 
- # GitHub Stats
 
-<div align="center">
+
+
+
+
+
+
+
+<details>
+  <summary style="font-size: 16px; font-weight: bold; cursor: pointer;">
+  <h1>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="25" height="25" /> 
+     GitHub Stats
+  </h1>
+        
+  </summary>
+  
+  <div align="center">
   <table>
     <tr>
       <td align="center">
@@ -87,6 +102,9 @@ const sameer = {
     </tr>
   </table>
 </div>
+  
+</details>
+
 
 
 ## GSSOC(24) Badges 🪶
@@ -103,11 +121,9 @@ const sameer = {
 </table>
 
 ## Hacktoberfest'24 Badges
-
-
-
-
 [![An image of @sameeratweb's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sameeratweb)](https://holopin.io/@sameeratweb)
+
+<img src="img1.jpeg" alt="Description of the image" width="1000" height="250">
 
 
 
