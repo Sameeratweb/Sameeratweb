@@ -66,7 +66,7 @@ const sameer = {
         </a>
       </td>
       <td align="center">
-        <img src="https://github.com/user-attachments/assets/ccdb3195-a669-4563-80ed-ee9faf678bb3" alt="Example Image" width="400">
+        <img src="https://github.com/user-attachments/assets/66ce8d3d-7811-4244-8dfb-f410b56f3289" alt="Example Image" width="400">
       </td>
     </tr>
   </table>
